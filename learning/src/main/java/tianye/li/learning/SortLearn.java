@@ -29,9 +29,7 @@ public class SortLearn {
         }
 
         System.out.println(Arrays.toString(arr));
-
         quickSort(arr);
-
         System.out.println(Arrays.toString(arr));
     }
 
